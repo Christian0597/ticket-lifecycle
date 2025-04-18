@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/JFCef5V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dioINCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Identify the ticket that requires. This can be achieved by searching the ticket number or browsing the list of open tickets in osTicket application.
